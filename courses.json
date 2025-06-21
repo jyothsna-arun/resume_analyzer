@@ -1,0 +1,19 @@
+course_recommendations = {
+    "python": [
+        {"title": "Python for Everybody", "platform": "Coursera", "link": "https://www.coursera.org/specializations/python"},
+        {"title": "Learn Python - Full Course", "platform": "YouTube", "link": "https://youtu.be/rfscVS0vtbw"}
+    ],
+    "machine learning": [
+        {"title": "Machine Learning by Andrew Ng", "platform": "Coursera", "link": "https://www.coursera.org/learn/machine-learning"},
+        {"title": "Intro to ML", "platform": "Google", "link": "https://developers.google.com/machine-learning/crash-course"}
+    ],
+    "nlp": [
+        {"title": "Natural Language Processing Specialization", "platform": "Coursera", "link": "https://www.coursera.org/specializations/natural-language-processing"},
+        {"title": "Intro to NLP", "platform": "YouTube", "link": "https://youtu.be/8rXD5-xhemo"}
+    ],
+    "data analysis": [
+        {"title": "Data Analyst Career Path", "platform": "DataCamp", "link": "https://www.datacamp.com/career-tracks/data-analyst"},
+        {"title": "Data Analysis with Python", "platform": "FreeCodeCamp", "link": "https://youtu.be/r-uOLxNrNk8"}
+    ]
+    # Add more skills and courses as needed
+}
