@@ -85,7 +85,7 @@ st.markdown('<h3 class="section-header">📝 Paste Job Description Here</h3>', u
 
 st.markdown("""
     <div style="font-size:16px; color:#556B2F; font-weight:bold; margin-bottom:5px;">
-        Once types do ctrl+enter for next process !
+        Once done typing do ctrl+enter for next process !
     </div>
 """, unsafe_allow_html=True)
 
